@@ -5,10 +5,6 @@
 - Individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/rule-of-three.md#stage-1) project
 - Due before class, **Monday September 7th**
 
-## Video Summary:
-
-<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=302e8d5e-c28a-4787-bdea-ac1d012f4940&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
 ## Learning Goals
 
 - Write Ruby code with statements that practice conditional logic, using `if`, `elsif`, and `else` when appropriate
